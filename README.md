@@ -1,2 +1,2 @@
 # fun-projects
-simple projects for undertsanding purposes 
+identifying the differences in images using computer vision and image detection 
